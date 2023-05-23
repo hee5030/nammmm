@@ -1,0 +1,1 @@
+/home/robo/catkin_ws/devel/.private/ip200_msgs/share/gennodejs/ros/ip200_msgs/msg/RobotMotor.js

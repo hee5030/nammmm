@@ -1,0 +1,1 @@
+/home/robo/catkin_ws/devel/.private/ip200_msgs/lib/python3/dist-packages/ip200_msgs/msg/_RobotMotor.py

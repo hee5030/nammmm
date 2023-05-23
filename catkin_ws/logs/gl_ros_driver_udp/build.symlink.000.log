@@ -1,0 +1,7 @@
+Symlinking /home/robo/catkin_ws/devel/lib/libgl_driver.so
+Symlinking /home/robo/catkin_ws/devel/lib/libserial.so
+Symlinking /home/robo/catkin_ws/devel/lib/libudp.so
+Symlinking /home/robo/catkin_ws/devel/lib/pkgconfig/gl_ros_driver_udp.pc
+Symlinking /home/robo/catkin_ws/devel/lib/gl_ros_driver_udp/gl_ros_driver_udp_node
+Symlinking /home/robo/catkin_ws/devel/share/gl_ros_driver_udp/cmake/gl_ros_driver_udpConfig.cmake
+Symlinking /home/robo/catkin_ws/devel/share/gl_ros_driver_udp/cmake/gl_ros_driver_udpConfig-version.cmake

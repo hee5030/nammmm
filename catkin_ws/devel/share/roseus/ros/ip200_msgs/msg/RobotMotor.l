@@ -1,0 +1,1 @@
+/home/robo/catkin_ws/devel/.private/ip200_msgs/share/roseus/ros/ip200_msgs/msg/RobotMotor.l

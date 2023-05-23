@@ -1,0 +1,3 @@
+Symlinking /home/robo/catkin_ws/devel/lib/pkgconfig/ip200_navigation.pc
+Symlinking /home/robo/catkin_ws/devel/share/ip200_navigation/cmake/ip200_navigationConfig.cmake
+Symlinking /home/robo/catkin_ws/devel/share/ip200_navigation/cmake/ip200_navigationConfig-version.cmake

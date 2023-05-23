@@ -1,0 +1,1 @@
+/home/robo/catkin_ws/devel/.private/ip200_description/lib/pkgconfig/ip200_description.pc

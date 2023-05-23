@@ -1,0 +1,8 @@
+[01m[K/home/robo/catkin_ws/src/IP200_ROS/ip200_motor_driver/src/can_handler.cpp:[m[K In member function ‘[01m[Kbool CanPacketHandler::callback_reset_frame(std_srvs::Trigger::Request&, std_srvs::Trigger::Response&)[m[K’:
+[01m[K/home/robo/catkin_ws/src/IP200_ROS/ip200_motor_driver/src/can_handler.cpp:52:1:[m[K [01;35m[Kwarning: [m[Kno return statement in function returning non-void [[01;35m[K-Wreturn-type[m[K]
+   52 | [01;35m[K}[m[K
+      | [01;35m[K^[m[K
+[01m[K/home/robo/catkin_ws/src/IP200_ROS/ip200_motor_driver/src/motor_driver.cpp:[m[K In member function ‘[01m[Kbool MotorDriver::endup()[m[K’:
+[01m[K/home/robo/catkin_ws/src/IP200_ROS/ip200_motor_driver/src/motor_driver.cpp:232:1:[m[K [01;35m[Kwarning: [m[Kno return statement in function returning non-void [[01;35m[K-Wreturn-type[m[K]
+  232 | [01;35m[K}[m[K
+      | [01;35m[K^[m[K

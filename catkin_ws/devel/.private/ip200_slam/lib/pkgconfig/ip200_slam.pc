@@ -1,0 +1,8 @@
+prefix=/home/robo/catkin_ws/devel/.private/ip200_slam
+
+Name: ip200_slam
+Description: Description of ip200_slam
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

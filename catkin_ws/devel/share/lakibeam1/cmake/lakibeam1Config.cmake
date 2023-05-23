@@ -1,0 +1,1 @@
+/home/robo/catkin_ws/devel/.private/lakibeam1/share/lakibeam1/cmake/lakibeam1Config.cmake

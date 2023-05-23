@@ -1,0 +1,8 @@
+prefix=/home/robo/catkin_ws/devel/.private/ip200_core
+
+Name: ip200_core
+Description: Description of ip200_core
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib -lip200_core
+Requires: roscpp std_msgs tf nav_msgs

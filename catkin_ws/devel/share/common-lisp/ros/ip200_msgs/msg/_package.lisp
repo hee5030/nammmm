@@ -1,0 +1,1 @@
+/home/robo/catkin_ws/devel/.private/ip200_msgs/share/common-lisp/ros/ip200_msgs/msg/_package.lisp

@@ -1,0 +1,8 @@
+prefix=/home/robo/catkin_ws/devel/.private/ip200_teleop
+
+Name: ip200_teleop
+Description: Description of ip200_teleop
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

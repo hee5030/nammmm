@@ -1,0 +1,8 @@
+prefix=/home/robo/catkin_ws/install
+
+Name: ip200_motor_driver
+Description: Description of ip200_motor_driver
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib -lip200_motor_driver
+Requires: roscpp std_msgs can_msgs

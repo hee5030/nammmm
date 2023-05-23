@@ -1,0 +1,3 @@
+Symlinking /home/robo/catkin_ws/devel/lib/pkgconfig/ip200.pc
+Symlinking /home/robo/catkin_ws/devel/share/ip200/cmake/ip200Config-version.cmake
+Symlinking /home/robo/catkin_ws/devel/share/ip200/cmake/ip200Config.cmake

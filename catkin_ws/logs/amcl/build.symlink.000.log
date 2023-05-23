@@ -1,0 +1,14 @@
+Symlinking /home/robo/catkin_ws/devel/include/amcl/AMCLConfig.h
+Symlinking /home/robo/catkin_ws/devel/lib/libamcl_map.so
+Symlinking /home/robo/catkin_ws/devel/lib/libamcl_pf.so
+Symlinking /home/robo/catkin_ws/devel/lib/libamcl_sensors.so
+Symlinking /home/robo/catkin_ws/devel/lib/python3/dist-packages/amcl/__init__.py
+Symlinking /home/robo/catkin_ws/devel/lib/python3/dist-packages/amcl/cfg/AMCLConfig.py
+Symlinking /home/robo/catkin_ws/devel/lib/python3/dist-packages/amcl/cfg/__init__.py
+Symlinking /home/robo/catkin_ws/devel/lib/pkgconfig/amcl.pc
+Symlinking /home/robo/catkin_ws/devel/lib/amcl/amcl
+Symlinking /home/robo/catkin_ws/devel/share/amcl/docs/AMCLConfig.wikidoc
+Symlinking /home/robo/catkin_ws/devel/share/amcl/docs/AMCLConfig.dox
+Symlinking /home/robo/catkin_ws/devel/share/amcl/docs/AMCLConfig-usage.dox
+Symlinking /home/robo/catkin_ws/devel/share/amcl/cmake/amclConfig.cmake
+Symlinking /home/robo/catkin_ws/devel/share/amcl/cmake/amclConfig-version.cmake

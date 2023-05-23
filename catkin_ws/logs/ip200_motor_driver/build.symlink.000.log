@@ -1,0 +1,4 @@
+Symlinking /home/robo/catkin_ws/devel/lib/pkgconfig/ip200_motor_driver.pc
+Symlinking /home/robo/catkin_ws/devel/lib/ip200_motor_driver/ip200_motor_driver
+Symlinking /home/robo/catkin_ws/devel/share/ip200_motor_driver/cmake/ip200_motor_driverConfig.cmake
+Symlinking /home/robo/catkin_ws/devel/share/ip200_motor_driver/cmake/ip200_motor_driverConfig-version.cmake

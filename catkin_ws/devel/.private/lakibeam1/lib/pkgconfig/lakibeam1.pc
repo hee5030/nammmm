@@ -1,0 +1,8 @@
+prefix=/home/robo/catkin_ws/devel/.private/lakibeam1
+
+Name: lakibeam1
+Description: Description of lakibeam1
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,10 @@
+[35m[1mScanning dependencies of target lakibeam1_scan_node[0m
+[ 16%] [32mBuilding CXX object CMakeFiles/lakibeam1_scan_node.dir/src/lakibeam1_scan.cpp.o[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/lakibeam1_scan_node.dir/src/remote.cpp.o[0m
+[ 50%] [32m[1mLinking CXX executable /home/robo/catkin_ws/devel/.private/lakibeam1/lib/lakibeam1/lakibeam1_scan_node[0m
+[ 50%] Built target lakibeam1_scan_node
+[35m[1mScanning dependencies of target lakibeam1_pcd_node[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/lakibeam1_pcd_node.dir/src/lakibeam1_pcd.cpp.o[0m
+[ 83%] [32mBuilding CXX object CMakeFiles/lakibeam1_pcd_node.dir/src/remote.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/robo/catkin_ws/devel/.private/lakibeam1/lib/lakibeam1/lakibeam1_pcd_node[0m
+[100%] Built target lakibeam1_pcd_node

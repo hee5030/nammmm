@@ -1,0 +1,8 @@
+prefix=/home/robo/catkin_ws/devel/.private/ip200_description
+
+Name: ip200_description
+Description: Description of ip200_description
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

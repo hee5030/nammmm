@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target ip200_driver[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/ip200_driver.dir/src/ip200_driver.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/robo/catkin_ws/devel/.private/ip200_core/lib/ip200_core/ip200_driver[0m
+[100%] Built target ip200_driver

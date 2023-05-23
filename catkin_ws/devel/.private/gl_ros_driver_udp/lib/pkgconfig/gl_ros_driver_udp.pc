@@ -1,0 +1,8 @@
+prefix=/home/robo/catkin_ws/devel/.private/gl_ros_driver_udp
+
+Name: gl_ros_driver_udp
+Description: Description of gl_ros_driver_udp
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp sensor_msgs

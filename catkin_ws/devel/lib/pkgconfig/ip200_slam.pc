@@ -1,0 +1,1 @@
+/home/robo/catkin_ws/devel/.private/ip200_slam/lib/pkgconfig/ip200_slam.pc
