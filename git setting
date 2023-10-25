@@ -1,0 +1,25 @@
+github id: hee5030@gmail.com
+
+passward:
+
+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
+
+
+git update
+
+1. git init
+
+2. git add .
+
+3. git commit -m "**"
+
+4. git remote add origin https://github.com/hee5030/mecanum.git
+
+5. git push origin +master
+
+
+
+초기화 하는 방법
+(화살표 폴더 있으면 그안에 들어가서 입력)
+
+sudo rm -rf .git
